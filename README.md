@@ -4,6 +4,7 @@ crawler of a great video site
 ## usage
 see the config.yml file
 ## dependency
+- python==3.6.4
 - attrdict==2.0.0
 - PyYAML==3.12
 - requests==2.18.4
