@@ -5,7 +5,7 @@ crawler of a great video site
 see the config.yml file
 
 ## warning
-Don't modify the delay function
-Don't use multithreading 
-crawling with virtuous
+- Don't modify the delay function
+- Don't use multithreading 
+- crawling with virtuous
 
