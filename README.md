@@ -12,6 +12,7 @@ see the config.yml file
 - urllib3==1.22
 ## warning
 - Don't modify the delay function
-- Don't use multithreading 
-- crawling with virtuous
+- Don't use multithreading
+- Don't use distributed system
+- Crawling with virtuous
 
