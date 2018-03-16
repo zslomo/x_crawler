@@ -126,6 +126,7 @@ if __name__ == "__main__":
         key = '&p='
     else:
         landingPageBaseUrl = params.baseUrl + '/new/'
+        key = ''
         clas = 'new'
 
     if params.ifsearch + params.iftag + params.ifnew > 1:
