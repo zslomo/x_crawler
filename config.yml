@@ -1,0 +1,24 @@
+project-key: Crwaler
+
+parameters:
+
+  # saved dist
+  data_dir: D:\\xvideos\\
+
+  #url
+  baseUrl: https://www.xvideos.com
+  # new , search the main page video
+  # these three ifxx params only one can be 1 !!!
+  ifnew: 0
+
+  #tag
+  iftag: 0
+  tag_name: teens
+
+  #search
+  ifsearch: 1
+  search_name: 中国
+
+  #page
+  start_page: 0
+  end_page: 10
