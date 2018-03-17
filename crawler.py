@@ -121,7 +121,10 @@ if __name__ == "__main__":
         landingPageBaseUrl = params.baseUrl + '/tag/' + params.tag_name
         clas = params.tag_name
     elif params.ifsearch:
-        landingPageBaseUrl = params.baseUrl + '/?k=' + params.search_name
+        search_name = ''
+        if ' ' in params.search_name:
+            search_name = params.search_name.replace(' ','+')
+        landingPageBaseUrl = params.baseUrl + '/?k=' + search_name
         clas = params.search_name
         key = '&p='
     else:
