@@ -17,8 +17,10 @@ parameters:
 
   #search
   ifsearch: 1
-  search_name: japanese teen
+
+  search_name: japanese
+
 
   #page
   start_page: 0
-  end_page: 10
+  end_page: 2
