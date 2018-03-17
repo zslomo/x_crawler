@@ -116,7 +116,7 @@ def get_videos(urlList):
 if __name__ == "__main__":
     params = read_params()
 
-    key, clas= '', ''
+    key, clas= '/', ''
     if params.iftag:
         landingPageBaseUrl = params.baseUrl + '/tag/' + params.tag_name
         clas = params.tag_name
@@ -129,6 +129,7 @@ if __name__ == "__main__":
         key = '&p='
     else:
         landingPageBaseUrl = params.baseUrl + '/new/'
+        key = ''
         clas = 'new'
 
     if params.ifsearch + params.iftag + params.ifnew > 1:
