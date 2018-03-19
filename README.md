@@ -1,16 +1,16 @@
 # x_crawler
 crawler of a great video site
 
-## usage
+## Usage
 see the config.yml file
-## dependency
+## Dependency
 - python==3.6.4
 - attrdict==2.0.0
 - PyYAML==3.12
 - requests==2.18.4
 - tqdm==4.19.5
 - urllib3==1.22
-## warning
+## WARNING ！
 - Don't modify the delay function
 - Don't use multithreading
 - Don't use distributed system
