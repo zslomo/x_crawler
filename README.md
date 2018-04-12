@@ -1,4 +1,6 @@
-# NOTE!!:This site is inaccessible now even if the agent is used, I don't know why
+# NOTATION!!:
+
+This site is inaccessible now even if the agent is used, I don't know why
 
 
 # x_crawler
