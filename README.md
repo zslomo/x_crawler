@@ -15,6 +15,11 @@ see the config.yml file
 - requests==2.18.4
 - tqdm==4.19.5
 - urllib3==1.22
+### porn_hub dependency
+- ssl
+- tqdm
+- lxml
+- wget
 ## WARNING ！
 - Don't modify the delay function
 - Don't use multithreading
