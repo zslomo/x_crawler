@@ -4,10 +4,12 @@ Agent is needed, because ... nidongde
 
 
 # x_crawler
-crawler of a great video site
+crawler of xvideo & porhub
+porhub require file  porn_hub_crawler.py only
 
 ## Usage
-see the config.yml file
+xvideo see the config.yml file
+porhub see porn_hub_crawler.py
 ## Dependency
 - python==3.6.4
 - attrdict==2.0.0
