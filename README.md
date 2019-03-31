@@ -1,6 +1,7 @@
 # NOTATION!!:
-[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)  
-[![LICENSE](https://img.shields.io/badge/license-NPL%20(The%20996%20Prohibited%20License)-blue.svg)]
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+[![LICENSE](https://img.shields.io/badge/license-NPL%20(The%20996%20Prohibited%20License)-blue.svg)
+
 Agent is needed, because ... nidongde
 
 
