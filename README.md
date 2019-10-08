@@ -10,11 +10,11 @@ crawler for porhub
 porhub require file  porn_hub_crawler.py only
 -----
 update:
-xvideo script is no longer available
-addation: I push 3 new folds channel, playlist and star, now You can craw that three type videos by input the name which you interest in.
-These python files can be executed separately, and the file name is the series I crawed. 
-it supports breakpoint resume , if there is a file disconnected, you only need to restart the script, and It will download automatic.
-
+xvideo script is no longer available  
+addation: I push 3 new folds channel, playlist and star, now You can craw that three type videos by input the name which you interest in.  
+These python files can be executed separately, and the file name is the series I crawed.   
+it supports breakpoint resume , if there is a file disconnected, you only need to restart the script, and It will download automatic.  
+  
 Have fun !
 ## Usage
 porhub see porn_hub_crawler.py
