@@ -6,11 +6,17 @@ Agent is needed, because ... nidongde
 
 
 # x_crawler
-crawler of xvideo & porhub
+crawler for porhub
 porhub require file  porn_hub_crawler.py only
+-----
+update:
+xvideo script is no longer available
+addation: I push 3 new folds channel, playlist and star, now You can craw that three type videos by input the name which you interest in.
+These python files can be executed separately, and the file name is the series I crawed. 
+it supports breakpoint resume , if there is a file disconnected, you only need to restart the script, and It will download automatic.
 
+Have fun !
 ## Usage
-xvideo see the config.yml file
 porhub see porn_hub_crawler.py
 ## Dependency
 - python==3.6.4
@@ -28,5 +34,5 @@ porhub see porn_hub_crawler.py
 - Don't modify the delay function
 - Don't use multithreading
 - Don't use distributed system
-- Crawling with virtuous
+
 
