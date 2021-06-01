@@ -2,5 +2,5 @@ attrdict==2.0.0
 PyYAML==3.12
 requests==2.18.4
 tqdm==4.19.5
-urllib3==1.22
+urllib3==1.26.5
 
